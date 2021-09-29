@@ -1,0 +1,5 @@
+[Wed Sep 29 11:59:56.642439 2021] [mpm_winnt:notice] [pid 12528:tid 620] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Wed Sep 29 11:59:56.643140 2021] [mpm_winnt:notice] [pid 12528:tid 620] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Wed Sep 29 11:59:56.643140 2021] [core:notice] [pid 12528:tid 620] AH00094: Command line: 'C:\\Users\\Kalapan\\Downloads\\Princple Final Project\\Princple Final Project\\pokemonQuiz Program\\code/apache2/bin/httpd_usbwv8.exe -d C:/Users/Kalapan/Downloads/Princple Final Project/Princple Final Project/pokemonQuiz Program/code/apache2'
+[Wed Sep 29 11:59:56.666878 2021] [mpm_winnt:notice] [pid 12528:tid 620] AH00418: Parent: Created child process 5600
+[Wed Sep 29 11:59:57.346682 2021] [mpm_winnt:notice] [pid 5600:tid 816] AH00354: Child: Starting 64 worker threads.
